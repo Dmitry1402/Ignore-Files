@@ -1,0 +1,10 @@
+# проигнорируем подкаталог tmp
+/tmp
+
+# проигнорируем суффиксы _old, _backup
+*_old
+*_backup
+
+# проигнорируем файлы Thumbs.db и .DS_Store
+*.DS_Store
+img/Thumbs.db
